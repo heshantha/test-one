@@ -1,0 +1,20 @@
+.basket-block{
+    background: url(../../images/cart.jpg) no-repeat;
+    height:64px;
+    width:130px;
+    margin:10px;
+    position: relative;
+}
+
+.item-number{
+    position: absolute;
+    right: 50px;
+    color: white;
+    font-weight: bold;
+    background: red;
+    display: inline;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #fff;
+}
+
